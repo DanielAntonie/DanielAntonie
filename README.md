@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+
  
 <h1 align="center">
     <a href = "https:/git.io/typing-svg">
@@ -6,13 +6,13 @@
     </a>
 </h1>
 
-<div align="center”>
-<a href="mailto:danielantonie03@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-<a href="www.linkedin.com/in/daniel-antonie-547267248" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>
+<div align="center">
+  <a href="mailto:danielantonie03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-antonie-547267248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
       
 
