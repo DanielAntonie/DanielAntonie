@@ -32,7 +32,7 @@
 <br> <br> 
   
 <div align="center">
-  <h2>About ME:</h2>
+  <h2>About Me:</h2>
   <ul>
     <li> 👨🏻‍🎓 I am a graduate programmer and a passionate software developer.</li>
     <li> 📑 I am currently in my honours year of study In Computer and information sciences at Varisty College.</li>
