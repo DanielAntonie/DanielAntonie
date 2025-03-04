@@ -18,7 +18,7 @@
 <br> <br> 
 
 <div align="center">
- <h2>Technologies Used:</h2>
+ <h2>Technologies-Languages-Tools</h2>
 </div>  
 
 <br> <br> 
