@@ -36,7 +36,10 @@
   <ul>
     <li> 👨🏻‍🎓 I am a graduate programmer and a passionate software developer.</li>
     <li> 📑 I am currently in my honours year of study In Computer and information sciences at Varisty College.</li>
-    <li> 👨🏻‍💻 I am learning C# .Net Maui in my free time to hopefully develop multiplatform applications and custom software. </li>
+    <li> 👨🏻‍💻 I am learning C# .Net Maui in my free time </li>
+    <li> 💻 I am gaining full stack developer experience </li>
+    <li> 🤖 I am developing Android mobile apps and C# ASP.NET core MVC web applications for enterprise software use cases</li>
+    <li> 🔌 I use MacOS and Windows </li>
   </ul>
 </div>
 
