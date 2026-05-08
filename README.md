@@ -1,6 +1,8 @@
-# Hi There! 👋 I'm Daniel Antonie 👊
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Daniel+Antonie+%F0%9F%91%8A;Software+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-## Software Engineer 💻
+## Full Stack Software Engineer 💻
 
 [![Gmail](https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:danielantonie03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/daniel-antonie-547267248)
@@ -31,36 +33,36 @@ I enjoy building clean, reliable, and user-focused software solutions. My work f
 
 ## 🛠️ Technologies, Languages & Tools
 
-| Language / Tool | Experience Area |
-|---|---|
-| C# | Backend development, API development, ASP.NET Core, MVC applications, and Razor Pages |
-| .NET | Web applications, APIs, enterprise software, and commercial systems |
-| ASP.NET Core MVC | Database-driven web applications, dashboards, admin portals, and structured web systems |
-| Razor Pages | Page-focused ASP.NET Core applications and clean server-rendered interfaces |
-| C# API Development | REST APIs, backend services, integrations, and system-to-system communication |
-| Java | Object-oriented programming and application development |
-| Kotlin | Android mobile development |
-| Android Hardware Programming | Android-connected hardware workflows, device interaction, and mobile hardware integrations |
-| JavaScript | Frontend interactivity and web development |
-| React | Modern web interfaces |
-| Node.js | Backend services and JavaScript tooling |
-| MongoDB | NoSQL database development |
-| SQL | Relational databases and data-driven applications |
-| SQL Server | Relational database design, queries, stored data, and application persistence |
-| SSMS | SQL Server management, debugging, querying, and database maintenance |
-| Firebase | Authentication, Realtime Database, and app backend services |
-| Azure | Cloud services, hosting support, deployment, and scalable application infrastructure |
-| PayFast Integration | Payment gateway setup and online payment workflows |
-| Yoco Integration | Payment integration and checkout/payment flow implementation |
-| AI Integration | Adding AI-powered features, assistants, automation, and intelligent app workflows |
-| Git | Version control |
-| GitHub | Repository hosting and collaboration |
-| Visual Studio | .NET and C# development |
-| VS Code | General development and scripting |
-| Android Studio | Android app development |
-| Postman | API testing and debugging |
-| Figma | UI design and prototyping |
-| Windows / macOS | Development environments |
+| Icon | Language / Tool | Experience Area |
+|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" height="28" alt="C#" /> | C# | Backend development, API development, ASP.NET Core, MVC applications, and Razor Pages |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="28" height="28" alt=".NET" /> | .NET | Web applications, APIs, enterprise software, and commercial systems |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="28" height="28" alt="ASP.NET Core MVC" /> | ASP.NET Core MVC | Database-driven web applications, dashboards, admin portals, and structured web systems |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="28" height="28" alt="Razor Pages" /> | Razor Pages | Page-focused ASP.NET Core applications and clean server-rendered interfaces |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" height="28" alt="C# API Development" /> | C# API Development | REST APIs, backend services, integrations, and system-to-system communication |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java" /> | Java | Object-oriented programming and application development |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="28" height="28" alt="Kotlin" /> | Kotlin | Android mobile development |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="28" height="28" alt="Android Hardware Programming" /> | Android Hardware Programming | Android-connected hardware workflows, device interaction, and mobile hardware integrations |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" /> | JavaScript | Frontend interactivity and web development |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React" /> | React | Modern web interfaces |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" /> | Node.js | Backend services and JavaScript tooling |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB" /> | MongoDB | NoSQL database development |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="28" height="28" alt="SQL" /> | SQL | Relational databases and data-driven applications |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="28" height="28" alt="SQL Server" /> | SQL Server | Relational database design, queries, stored data, and application persistence |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="28" height="28" alt="SSMS" /> | SSMS | SQL Server management, debugging, querying, and database maintenance |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28" height="28" alt="Firebase" /> | Firebase | Authentication, Realtime Database, and app backend services |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="28" height="28" alt="Azure" /> | Azure | Cloud services, hosting support, deployment, and scalable application infrastructure |
+| 💳 | PayFast Integration | Payment gateway setup and online payment workflows |
+| 💳 | Yoco Integration | Payment integration and checkout/payment flow implementation |
+| 🤖 | AI Integration | Adding AI-powered features, assistants, automation, and intelligent app workflows |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" height="28" alt="Git" /> | Git | Version control |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="GitHub" /> | GitHub | Repository hosting and collaboration |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="28" height="28" alt="Visual Studio" /> | Visual Studio | .NET and C# development |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" /> | VS Code | General development and scripting |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="28" height="28" alt="Android Studio" /> | Android Studio | Android app development |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28" height="28" alt="Postman" /> | Postman | API testing and debugging |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28" height="28" alt="Figma" /> | Figma | UI design and prototyping |
+| 🖥️ | Windows / macOS | Development environments |
 
 ---
 
@@ -88,11 +90,12 @@ I enjoy building clean, reliable, and user-focused software solutions. My work f
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielAntonie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+GitHub contribution activity and development profile.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielAntonie&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAntonie&layout=compact&theme=tokyonight&hide_border=true)
+## 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DanielAntonie&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -125,6 +128,6 @@ I am always open to connecting with other developers, collaborating on exciting 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=58A6FF)
+![Profile Views](https://komarev.com/ghpvc/?username=DanielAntonie&style=for-the-badge&color=58A6FF)
 
 ### ⚡ Building. Learning. Improving. One commit at a time. ⚡
