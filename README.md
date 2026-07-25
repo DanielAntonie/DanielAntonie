@@ -87,6 +87,7 @@ I am passionate about creating practical systems that are easy to use, well-stru
 | Cloud & Hosting | Azure-ready architecture, deployment support, and hosted application environments |
 | AI Features | AI assistants, intelligent workflows, and productivity-focused automation |
 | Android Systems | Android apps, Firebase-backed mobile systems, and hardware-connected app logic |
+| IOS/Android Systems - KMP| Apple apps, Firebase-backed mobile systems, and hardware-connected app logic |
 
 ---
 
