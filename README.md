@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer at IAT Fusion**, with a strong focus on **full-stack development**, **Android development**, and **ASP.NET Core solutions**.
+I am a **Software Engineer at IAT Fusion**, with a strong focus on **full-stack development**, ** Web Apps, API's, Android and IOS development**, as well as **ASP.NET Core solutions**.
 
 I enjoy building clean, reliable, and user-focused software that solves real business problems. My work spans backend services, C# APIs, SQL Server databases, Razor Pages, ASP.NET Core MVC applications, mobile apps, and modern web interfaces.
 
