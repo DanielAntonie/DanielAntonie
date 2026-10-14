@@ -43,7 +43,8 @@ I am passionate about creating practical systems that are easy to use, well-stru
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="28" height="28" alt="Razor Pages" /> | Razor Pages | Page-focused ASP.NET Core applications and clean server-rendered interfaces |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" height="28" alt="C# API Development" /> | C# API Development | REST APIs, backend services, integrations, and system-to-system communication |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java" /> | Java | Object-oriented programming and application development |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="28" height="28" alt="Kotlin" /> | Kotlin | Android mobile development |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="28" height="28" alt="Kotlin" /> | Kotlin KMP | Android mobile development & Kotlin Multiplatform Development |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="28" height="28" alt="Swift" /> | Swift | Native iOS application development |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="28" height="28" alt="Android Hardware Programming" /> | Android Hardware Programming | Android-connected hardware workflows, device interaction, and mobile hardware integrations |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" /> | JavaScript | Frontend interactivity and web development |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React" /> | React | Modern web interfaces |
