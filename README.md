@@ -54,6 +54,7 @@ I am passionate about creating practical systems that are easy to use, well-stru
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="28" height="28" alt="SSMS" /> | SSMS | SQL Server management, debugging, querying, and database maintenance |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28" height="28" alt="Firebase" /> | Firebase | Authentication, Realtime Database, and app backend services |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="28" height="28" alt="Azure" /> | Azure | Cloud services, hosting support, deployment, and scalable application infrastructure |
+| <img src="https://www.zohowebstatic.com/sites/zweb/images/commonroot/zoho-logo-web.svg" width="28" height="28" alt="Zoho" /> | Zoho | Zoho service integrations and connected business application workflows |
 | 💳 | PayFast Integration | Payment gateway setup and online payment workflows |
 | 💳 | Yoco Integration | Payment integration and checkout/payment flow implementation |
 | 🤖 | AI Integration | Adding AI-powered features, assistants, automation, and intelligent app workflows |
@@ -62,6 +63,8 @@ I am passionate about creating practical systems that are easy to use, well-stru
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="28" height="28" alt="Visual Studio" /> | Visual Studio | .NET and C# development |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" /> | VS Code | General development and scripting |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="28" height="28" alt="Android Studio" /> | Android Studio | Android app development |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="28" height="28" alt="Xcode" /> | Xcode | iOS application development, builds, debugging, and testing |
+| <img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-128x128_2x.png" width="28" height="28" alt="TestFlight" /> | TestFlight | iOS beta distribution and pre-release application testing |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28" height="28" alt="Postman" /> | Postman | API testing and debugging |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28" height="28" alt="Figma" /> | Figma | UI design and prototyping |
 | 🖥️ | Windows / macOS | Development environments |
